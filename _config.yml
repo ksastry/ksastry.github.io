@@ -1,6 +1,5 @@
 title: Karthik Sastry
 logo: /assets/img/headshot-crop.jpg
 description: Prize Fellow in Economics, History, and Politics at Harvard University (from July 1, 2022)
-# show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
+is_project_page: false
