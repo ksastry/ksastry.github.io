@@ -2,122 +2,56 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am currently a Ph.D. candidate in Economics at MIT. I will begin as a [Prize Fellow in Economics, History, and Politics](https://sites.fas.harvard.edu/~histecon/ehppf/index.html) at Harvard University in July 2022, and I will begin as an Assistant Professor of Economics and Public Affairs at Princeton University in 2023. My full CV can be found [here](files/CV.pdf). You can contact me at ksastry@mit.edu.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Working Papers
 
-```
-The final element.
-```
+"Attention Cycles," with Joel P. Flynn.
+[Paper](files/AC_Nov_09_2021.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
+November 2021.
+
+"Disagreement About Monetary Policy."
+[Paper](files/sastry_monetary_Dec2021.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
+December 2021.
+
+"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Revise and resubmit, _Quarterly Journal of Economics_.
+[Paper](files/MosconaSastry_paper.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
+August 2021.
+
+"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
+[Paper](IT_April2022.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
+April 2022.
+
+"Inattentive Economies," with George-Marios Angeletos. Revise and resubmit, _Journal of Political Economy_.
+[Paper](files/ie_march21.pdf),
+[NBER Link](https://www.nber.org/papers/w26413).
+March 2021.
+
+"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.
+[Paper](files/NLPU_Feb2022.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
+February 2022.
+
+"Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
+[Paper](files/SMAug21.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
+August 2021.
+
+## Publications
+
+"Managing Expectations: Instruments vs. Targets," with George-Marios Angeletos. _Quarterly Journal of Economics_, 2021, 136(4): 2467–2532.
+[Paper](files/pc_sep20.pdf).
+
+"Imperfect Macroeconomic Expectations: Evidence and Theory," with George-Marios Angeletos and Zhen Huo. _NBER Macroeconomics Annual 2020_, 35: 1-86.
+[Paper](files/ime.pdf).
+
+"Feedbacks: Financial Markets and Economic Activity," with Markus Brunnermeier, Darius Palia, and Christopher A. Sims. _American Economic Review_, 2021, 111(6): 1845-1879.
+[Paper](files/bpss_paper.pdf),
+[Online Appendix](files/bpss_app.pdf).
+
