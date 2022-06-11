@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am currently a Ph.D. candidate in Economics at MIT. I will begin as a [Prize Fellow in Economics, History, and Politics](https://sites.fas.harvard.edu/~histecon/ehppf/index.html) at Harvard University in July 2022, and I will begin as an Assistant Professor of Economics and Public Affairs at Princeton University in 2023. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@mit.edu.
+I received my PhD from MIT in May 2022. I will begin as a [Prize Fellow in Economics, History, and Politics](https://sites.fas.harvard.edu/~histecon/ehppf/index.html) at Harvard University in July 2022, and I will begin as an Assistant Professor of Economics and Public Affairs at Princeton University in July 2023. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@mit.edu.
 
 
 
