@@ -34,6 +34,12 @@ April 2022.
 [NBER Link](https://www.nber.org/papers/w26413).
 March 2021.
 
+"The Macroeconomics of Narratives," with Joel P. Flynn
+[Paper](files/Narratives.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
+July 2022.
+
+
 "Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.
 [Paper](files/NLPU_Feb2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
