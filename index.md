@@ -34,7 +34,7 @@ April 2022.
 [NBER Link](https://www.nber.org/papers/w26413).
 March 2021.
 
-"The Macroeconomics of Narratives," with Joel P. Flynn
+"The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 July 2022.
