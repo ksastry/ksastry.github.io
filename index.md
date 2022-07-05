@@ -20,9 +20,9 @@ November 2021.
 December 2021.
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Revise and resubmit, _Quarterly Journal of Economics_.
-[Paper](files/MosconaSastry_paper.pdf),
+[Paper](files/MosconaSastry_July2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
-August 2021.
+July 2022.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
 [Paper](files/IT_April2022.pdf),
