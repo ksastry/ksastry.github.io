@@ -4,8 +4,8 @@ description: "Prize Fellow in Economics, History, and Politics at Harvard Univer
 theme: jekyll-theme-minimal
 url: https://ksastry.github.io
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - "jekyll-seo-tag"
+  - "jekyll-sitemap"
 github:
   is_project_page: false
   is_user_page: false

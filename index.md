@@ -40,7 +40,7 @@ March 2021.
 July 2022.
 
 
-"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.
+"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Revise and resubmit, _American Economic Review_.
 [Paper](files/NLPU_Feb2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
 February 2022.
