@@ -19,7 +19,7 @@ November 2021.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 December 2021.
 
-"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Revise and resubmit, _Quarterly Journal of Economics_.
+"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Conditionally accepted, _Quarterly Journal of Economics_.
 [Paper](files/MosconaSastry_July2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
 July 2022.
