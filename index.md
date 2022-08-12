@@ -37,7 +37,7 @@ March 2021.
 "The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
-July 2022.
+June 2022.
 
 
 "Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Revise and resubmit, _American Economic Review_.
