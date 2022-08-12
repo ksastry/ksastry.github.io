@@ -15,9 +15,9 @@ I am a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.h
 November 2021.
 
 "Disagreement About Monetary Policy."
-[Paper](files/sastry_monetary_Dec2021.pdf),
+[Paper](files/sastry_monetary_Aug2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
-December 2021.
+August 20222.
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Conditionally accepted, _Quarterly Journal of Economics_.
 [Paper](files/MosconaSastry_July2022.pdf),
