@@ -10,14 +10,14 @@ I am a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.h
 ## Working Papers
 
 "Attention Cycles," with Joel P. Flynn.
-[Paper](files/AC_Nov_09_2021.pdf),
+[Paper](files/AC_Aug_12_2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
-November 2021.
+August 2022.
 
 "Disagreement About Monetary Policy."
 [Paper](files/sastry_monetary_Aug2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
-August 20222.
+August 2022.
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Conditionally accepted, _Quarterly Journal of Economics_.
 [Paper](files/MosconaSastry_July2022.pdf),
