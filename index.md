@@ -19,12 +19,6 @@ August 2022.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 August 2022.
 
-"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Accepted, _Quarterly Journal of Economics_.
-[Paper](files/MosconaSastry_August2022.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
-August 2022.
-
-
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
 [Paper](files/IT_Sept2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
@@ -52,6 +46,11 @@ August 2021.
 
 ## Publications
 
+"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Forthcoming, _Quarterly Journal of Economics_.
+[Paper](files/MosconaSastry_Main.pdf),
+[Online Appendix](files/MosconaSastry_Appendix.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
+September 2022.
 
 "Managing Expectations: Instruments vs. Targets," with George-Marios Angeletos. _Quarterly Journal of Economics_, 2021, 136(4): 2467–2532.
 [Paper](files/pc_sep20.pdf).
