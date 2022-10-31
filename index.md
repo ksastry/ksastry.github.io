@@ -20,7 +20,7 @@ August 2022.
 August 2022.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
-[Paper](files/IT_Oct2022.pdf),
+[Paper](files/IT_30oct2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 October 2022.
 
