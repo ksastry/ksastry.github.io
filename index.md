@@ -30,7 +30,7 @@ October 2022.
 March 2021.
 
 "The Macroeconomics of Narratives," with Joel P. Flynn.
-[Paper](files/Narratives_Nov03.pdf),
+[Paper](files/Narratives_Nov032022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 November 2022.
 
