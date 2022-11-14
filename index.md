@@ -14,7 +14,7 @@ I am a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.h
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 August 2022.
 
-"Disagreement About Monetary Policy."
+"Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_monetary_Aug2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 August 2022.
@@ -35,7 +35,7 @@ March 2021.
 November 2022.
 
 
-"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Revise and resubmit, _American Economic Review_.
+"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _American Economic Review_.
 [Paper](files/NLPU_Sep2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
 September 2022.
