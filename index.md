@@ -36,9 +36,9 @@ November 2022.
 
 
 "Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _American Economic Review_.
-[Paper](files/NLPU_Sep2022.pdf),
+[Paper](files/NLPU_Nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
-September 2022.
+November 2022.
 
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
 [Paper](files/SMAug21.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
