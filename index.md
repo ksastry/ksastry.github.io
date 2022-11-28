@@ -35,16 +35,16 @@ March 2021.
 November 2022.
 
 
-"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _American Economic Review_.
-[Paper](files/NLPU_Nov2022.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
-November 2022.
-
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
 [Paper](files/SMAug21.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 August 2021.
 
-## Publications
+## Publications and Forthcoming Articles
+
+"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Forthcoming, _American Economic Review_.
+[Paper](files/NLPU_Nov2022.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
+November 2022.
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Forthcoming, _Quarterly Journal of Economics_.
 [Paper](files/MosconaSastry_Main.pdf),
