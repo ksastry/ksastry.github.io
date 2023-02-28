@@ -4,7 +4,7 @@ layout: default
 
 I am a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University. I will begin as an Assistant Professor of Economics and Public Affairs at Princeton University in July 2023. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@mit.edu.
 
-
+I study macroeconomics. My specific interests include the role of bounded rationality and social dynamics in shaping macroeconomic outcomes and the economic determinants of global trends in technology and productivity.
 
 
 ## Working Papers
@@ -22,12 +22,15 @@ August 2022.
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
 [Paper](files/IT_15nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
+Coverage:
+[Econimate](https://www.youtube.com/watch?v=2MZqeRcecwQ),
+[Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 November 2022.
 
 "Inattentive Economies," with George-Marios Angeletos. Revise and resubmit, _Journal of Political Economy_.
-[Paper](files/ie_march21.pdf),
+[Paper](files/ie_feb2023.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
-March 2021.
+February 2023.
 
 "The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives_Nov032022.pdf),
@@ -50,6 +53,9 @@ November 2022.
 [Paper](files/MosconaSastry_Main.pdf),
 [Online Appendix](files/MosconaSastry_Appendix.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
+Coverage:
+[Harvard Gazette](https://news.harvard.edu/gazette/story/2022/11/can-tech-save-us-from-worst-of-climate-change-effects-doesnt-look-good/),
+[Nature Climate Change Research Highlight](https://www.nature.com/articles/s41558-022-01552-w).
 September 2022.
 
 "Managing Expectations: Instruments vs. Targets," with George-Marios Angeletos. _Quarterly Journal of Economics_, 2021, 136(4): 2467–2532.
