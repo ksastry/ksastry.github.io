@@ -19,7 +19,7 @@ August 2022.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 August 2022.
 
-"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona.
+"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
 [Paper](files/IT_15nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 Coverage:
