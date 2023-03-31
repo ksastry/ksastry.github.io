@@ -39,15 +39,11 @@ November 2022.
 
 
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
-[Paper](files/SMAug21.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
-August 2021.
+[Paper](files/SMMarch23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
+March 2023.
 
 ## Publications and Forthcoming Articles
 
-"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn. Forthcoming, _American Economic Review_.
-[Paper](files/NLPU_Nov2022.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
-November 2022.
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Forthcoming, _Quarterly Journal of Economics_.
 [Paper](files/MosconaSastry_Main.pdf),
@@ -57,6 +53,10 @@ Coverage:
 [Harvard Gazette](https://news.harvard.edu/gazette/story/2022/11/can-tech-save-us-from-worst-of-climate-change-effects-doesnt-look-good/),
 [Nature Climate Change Research Highlight](https://www.nature.com/articles/s41558-022-01552-w).
 September 2022.
+
+"Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.  _American Economic Review_, 2023, 113(3): 836-860.
+[Paper](files/NLPU_Nov2022.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
 
 "Managing Expectations: Instruments vs. Targets," with George-Marios Angeletos. _Quarterly Journal of Economics_, 2021, 136(4): 2467–2532.
 [Paper](files/pc_sep20.pdf).
