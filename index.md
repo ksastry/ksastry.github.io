@@ -23,6 +23,7 @@ August 2022.
 [Paper](files/IT_15nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 Coverage:
+[Vox Dev](https://voxdev.org/topic/technology-innovation/inappropriate-technology-evidence-global-agriculture),
 [Econimate](https://www.youtube.com/watch?v=2MZqeRcecwQ),
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 November 2022.
