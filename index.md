@@ -19,6 +19,10 @@ August 2022.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 August 2022.
 
+"How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
+[Paper](files/Regional_Exposure_April23.pdf).
+April 2023.
+
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
 [Paper](files/IT_15nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
@@ -38,7 +42,6 @@ February 2023.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 November 2022.
 
-
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
 [Paper](files/SMMarch23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 March 2023.
@@ -46,7 +49,7 @@ March 2023.
 ## Publications and Forthcoming Articles
 
 
-"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. Forthcoming, _Quarterly Journal of Economics_.
+"Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. _Quarterly Journal of Economics_, 2023, 138(2): 637-701.
 [Paper](files/MosconaSastry_Main.pdf),
 [Online Appendix](files/MosconaSastry_Appendix.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
