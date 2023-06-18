@@ -10,9 +10,9 @@ I study macroeconomics. My specific interests include the role of bounded ration
 ## Working Papers
 
 "Attention Cycles," with Joel P. Flynn.
-[Paper](files/AC_Aug_12_2022.pdf),
+[Paper](files/AC_June_2023.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
-August 2022.
+June 2023.
 
 "Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_monetary_Aug2022.pdf),
