@@ -43,8 +43,8 @@ February 2023.
 November 2022.
 
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
-[Paper](files/SMMarch23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
-March 2023.
+[Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
+June 2023.
 
 ## Publications and Forthcoming Articles
 
