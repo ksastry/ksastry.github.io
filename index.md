@@ -42,6 +42,11 @@ February 2023.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 November 2022.
 
+"Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
+[Paper](files/pvq_June2023.pdf},
+[SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
+June 2023.
+
 "Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
 [Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 June 2023.
