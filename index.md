@@ -43,7 +43,7 @@ February 2023.
 November 2022.
 
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
-[Paper](files/pvq_June2023.pdf},
+[Paper](files/pvq_June2023.pdf),
 [SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
 June 2023.
 
