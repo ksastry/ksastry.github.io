@@ -2,18 +2,13 @@
 layout: default
 ---
 
-I am an Assistant Professor of Economics and Public Affairs at Princeton University. In 2022-2023, I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University. I received my PhD in Economics from MIT in 2022 and my AB in Economics from Princeton in 2016. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu
+I am an Assistant Professor of Economics and Public Affairs at Princeton University. I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University in the 2022-23 academic year.
 
-## Research
+I study macroeconomics. I am broadly interested in the interactions between information, innovation, and markets, in both theory and practice. Two specific topics that I am studying are the effects of bounded rationality and social dynamics on macroeconomic dynamics and the macroeconomic causes and consequences of technological innovation.
 
-I study macroeconomics. I am broadly interested in the interactions between information, innovation, and markets, in both theory and practice. Two specific topics that I am working on are:
+My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu.
 
-- modeling and measuring the role of bounded rationality and social dynamics in shaping macroeconomic dynamics, and
-- understanding the macroeconomic causes and consequences of technological innovation, especially the extent to which it promotes globally inclusive growth.
-
-My specific research papers are listed below.
-
-## Working Papers
+### Working Papers
 
 "Attention Cycles," with Joel P. Flynn.
 [Paper](files/AC_June_2023.pdf),
@@ -57,7 +52,7 @@ June 2023.
 [Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 June 2023.
 
-## Publications and Forthcoming Articles
+### Publications
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. _Quarterly Journal of Economics_, 2023, 138(2): 637-701.
 [Paper](files/MosconaSastry_Main.pdf),
