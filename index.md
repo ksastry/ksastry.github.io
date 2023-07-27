@@ -21,7 +21,7 @@ June 2023.
 August 2022.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
-[Paper](files/Regional_Exposure_July23.pdf).
+[Paper](files/Regional_Exposure_July2023.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
 July 2023.
 
