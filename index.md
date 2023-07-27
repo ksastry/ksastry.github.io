@@ -21,8 +21,9 @@ June 2023.
 August 2022.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
-[Paper](files/Regional_Exposure_April23.pdf).
-April 2023.
+[Paper](files/Regional_Exposure_July23.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
+July 2023.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
 [Paper](files/IT_15nov2022.pdf),
@@ -48,7 +49,7 @@ November 2022.
 [SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
 June 2023.
 
-"Strategic Mistakes," with Joel P. Flynn. Revise and resubmit, _Journal of Economic Theory_.
+"Strategic Mistakes," with Joel P. Flynn. Accepted, _Journal of Economic Theory_.
 [Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 June 2023.
 
