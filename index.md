@@ -11,9 +11,9 @@ My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@
 ### Working Papers
 
 "Attention Cycles," with Joel P. Flynn.
-[Paper](files/AC_June_2023.pdf),
+[Paper](files/AC_Sept01_2023.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
-June 2023.
+September 2023.
 
 "Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_monetary_Aug2022.pdf),
@@ -49,13 +49,16 @@ November 2022.
 [SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
 June 2023.
 
-"Strategic Mistakes," with Joel P. Flynn. Accepted, _Journal of Economic Theory_.
+### Publications
+
+"Strategic Mistakes," with Joel P. Flynn.  _Journal of Economic Theory_, 2023, (212).
+[Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312300100X),
 [Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 June 2023.
 
-### Publications
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. _Quarterly Journal of Economics_, 2023, 138(2): 637-701.
+[Publisher's Link](https://academic.oup.com/qje/article/138/2/637/6760169),
 [Paper](files/MosconaSastry_Main.pdf),
 [Online Appendix](files/MosconaSastry_Appendix.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3744951).
@@ -65,16 +68,20 @@ Coverage:
 September 2022.
 
 "Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.  _American Economic Review_, 2023, 113(3): 836-860.
+[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20220199),
 [Paper](files/NLPU_Nov2022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817175).
 
 "Managing Expectations: Instruments vs. Targets," with George-Marios Angeletos. _Quarterly Journal of Economics_, 2021, 136(4): 2467–2532.
+[Publisher's Link](https://academic.oup.com/qje/article/136/4/2467/6039349),
 [Paper](files/pc_sep20.pdf).
 
 "Imperfect Macroeconomic Expectations: Evidence and Theory," with George-Marios Angeletos and Zhen Huo. _NBER Macroeconomics Annual 2020_, 35: 1-86.
+[Publisher's Link](https://www.journals.uchicago.edu/doi/full/10.1086/712313),
 [Paper](files/ime.pdf).
 
 "Feedbacks: Financial Markets and Economic Activity," with Markus Brunnermeier, Darius Palia, and Christopher A. Sims. _American Economic Review_, 2021, 111(6): 1845-1879.
+[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20180733),
 [Paper](files/bpss_paper.pdf),
 [Online Appendix](files/bpss_app.pdf).
 
