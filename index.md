@@ -44,10 +44,10 @@ February 2023.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 November 2022.
 
-"Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
-[Paper](files/pvq_June2023.pdf),
+"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis.
+[Paper](files/Supply_web_Oct23.pdf),
 [SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-June 2023.
+October 2023.
 
 ### Publications
 
