@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -43,6 +43,11 @@ February 2023.
 [Paper](files/Narratives_Nov032022.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 November 2022.
+
+"Optimally Coarse Contracts," with Roberto Corrao and Joel P. Flynn.
+[Paper](files/OCC_Nov_23.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
+November 2023.
 
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/Supply_web_Oct23.pdf),
