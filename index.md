@@ -21,9 +21,9 @@ September 2023.
 August 2022.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
-[Paper](files/Regional_Exposure_Oct23_Final.pdf).
+[Paper](files/Regional_Exposure_Nov2023.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
-October 2023.
+November 2023.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
 [Paper](files/IT_15nov2022.pdf),
