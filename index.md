@@ -50,9 +50,9 @@ November 2022.
 November 2023.
 
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis.
-[Paper](files/Supply_web_Oct23.pdf),
+[Paper](files/Supply_web_Dec23.pdf),
 [SSRN  Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-October 2023.
+December 2023.
 
 ### Publications
 
