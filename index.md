@@ -39,9 +39,9 @@ Coverage:
 November 2022.
 
 "Inattentive Economies," with George-Marios Angeletos. Revise and resubmit, _Journal of Political Economy_.
-[Paper](files/ie_feb2023.pdf),
+[Paper](files/ie_feb2024.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
-February 2023.
+February 2024.
 
 "The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives_Nov032022.pdf),
