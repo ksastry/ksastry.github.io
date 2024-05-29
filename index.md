@@ -21,8 +21,8 @@ February 2024.
 August 2022.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona.
-[Paper](https://allanhsiao.com/files/HMS_foodpolicy.pdf).
-December 2023.
+[Paper](files/HMS_foodpolicy.pdf).
+May 2024.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
 [Paper](files/Regional_Exposure_Nov2023.pdf).
