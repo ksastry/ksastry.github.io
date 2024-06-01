@@ -11,9 +11,9 @@ My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@
 ### Working Papers
 
 "Attention Cycles," with Joel P. Flynn.
-[Paper](files/AC_Feb07_Final.pdf),
+[Paper](files/AC.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
-February 2024.
+May 2024.
 
 "Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_monetary_Aug2022.pdf),
