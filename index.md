@@ -44,9 +44,9 @@ November 2022.
 February 2024.
 
 "The Macroeconomics of Narratives," with Joel P. Flynn.
-[Paper](files/Narratives_Nov032022.pdf),
+[Paper](files/Narratives_June2024.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
-November 2022.
+June 2024.
 
 "Optimally Coarse Contracts," with Roberto Corrao and Joel P. Flynn.
 [Paper](files/OCC_Nov_23.pdf).
