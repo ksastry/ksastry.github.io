@@ -22,7 +22,7 @@ August 2022.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona.
 [Paper](files/HMS_foodpolicy.pdf).
-Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
+Coverage: [VoxDev](https://voxdev.org/topic/energy-environment/food-policy-warming-world), [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
 May 2024.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
@@ -39,7 +39,7 @@ Coverage:
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 November 2022.
 
-"Inattentive Economies," with George-Marios Angeletos. Revise and resubmit, _Journal of Political Economy_.
+"Inattentive Economies," with George-Marios Angeletos. Accepted, _Journal of Political Economy_.
 [Paper](files/ie_feb2024.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
 February 2024.
@@ -65,8 +65,6 @@ April 2024.
 "Strategic Mistakes," with Joel P. Flynn.  _Journal of Economic Theory_, 2023, (212).
 [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312300100X),
 [Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
-June 2023.
-
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. _Quarterly Journal of Economics_, 2023, 138(2): 637-701.
 [Publisher's Link](https://academic.oup.com/qje/article/138/2/637/6760169),
@@ -76,7 +74,6 @@ June 2023.
 Coverage:
 [Harvard Gazette](https://news.harvard.edu/gazette/story/2022/11/can-tech-save-us-from-worst-of-climate-change-effects-doesnt-look-good/),
 [Nature Climate Change Research Highlight](https://www.nature.com/articles/s41558-022-01552-w).
-September 2022.
 
 "Nonlinear Pricing with Under-Utilization: A Theory of Multi-Part Tariffs," with Roberto Corrao and Joel P. Flynn.  _American Economic Review_, 2023, 113(3): 836-860.
 [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20220199),
