@@ -23,7 +23,7 @@ August 2022.
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Revise and resubmit, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
-Coverage:[Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
+Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
 May 2024.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
