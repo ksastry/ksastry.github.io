@@ -10,7 +10,7 @@ My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@
 
 ### Working Papers
 
-"Attention Cycles," with Joel P. Flynn.
+"Attention Cycles," with Joel P. Flynn. Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/AC.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 May 2024.
