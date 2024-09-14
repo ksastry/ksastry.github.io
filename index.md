@@ -16,9 +16,9 @@ My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@
 May 2024.
 
 "Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
-[Paper](files/sastry_monetary_Aug2022.pdf),
+[Paper](files/sastry_DAMP_sep2024.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
-August 2022.
+September 2024.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Revise and resubmit, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
