@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I am an Assistant Professor of Economics and Public Affairs at Princeton University. I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University in the 2022-23 academic year.
+I am an Assistant Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/).
 
-I study macroeconomics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation
+I study macroeconomics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
 
-My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu.
+I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University in the 2022-23 academic year. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu.
 
 ### Working Papers
 
