@@ -51,6 +51,12 @@ June 2024.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 November 2023.
 
+"Quick-Fixing: Near-Rationality in Consumption and Savings Behavior," with Peter Andre, Joel P. Flynn, and Georgios Nikolakoudis.
+[Paper](files/quickfix.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
+October 2024.
+
+
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _American Economic Review_.
 [Paper](files/Supply_web_apr24.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683),
