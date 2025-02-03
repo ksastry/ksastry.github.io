@@ -15,6 +15,11 @@ I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Econ
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 May 2024.
 
+"Contractibility Design," with Roberto Corrao and Joel P. Flynn.
+[Paper](files/CDesign.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
+February 2025.
+
 "Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_DAMP_sep2024.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
@@ -46,12 +51,6 @@ November 2022.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 June 2024.
-
-"Optimally Coarse Contracts," with Roberto Corrao and Joel P. Flynn.
-[Paper](files/OCC_Nov_23.pdf).
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
-November 2023.
-
 
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
