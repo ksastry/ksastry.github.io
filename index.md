@@ -15,7 +15,7 @@ I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Econ
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 May 2024.
 
-"Disagreement About Monetary Policy." Revise and resubmit, _American Economic Journal: Macroeconomics_.
+"Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_DAMP_sep2024.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 September 2024.
@@ -23,6 +23,7 @@ September 2024.
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Revise and resubmit, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
+[CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
 Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
 May 2024.
 
@@ -51,15 +52,15 @@ June 2024.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 November 2023.
 
+
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
 October 2024.
 
-
 "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior," with Peter Andre, Joel P. Flynn, and Georgios Nikolakoudis.
 [Paper](files/quickfix.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
-October 2024.
+February 2025.
 
 
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _American Economic Review_.
