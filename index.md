@@ -38,13 +38,13 @@ May 2024.
 November 2023.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
-[Paper](files/IT_15nov2022.pdf),
+[Paper](files/IT_Feb2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 [Vox Dev Summary](https://voxdev.org/topic/technology-innovation/inappropriate-technology-evidence-global-agriculture).
 Coverage:
 [Econimate](https://www.youtube.com/watch?v=2MZqeRcecwQ),
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
-November 2022.
+February 2025.
 
 "The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives_June2024.pdf),
