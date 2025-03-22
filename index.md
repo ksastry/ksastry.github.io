@@ -30,7 +30,7 @@ September 2024.
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
 [CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
 Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
-May 2024.
+March 2025.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
 [Paper](files/Regional_Exposure_Nov2023.pdf).
@@ -49,6 +49,8 @@ February 2025.
 "The Macroeconomics of Narratives," with Joel P. Flynn.
 [Paper](files/Narratives_June2024.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
+[IMF F&D Magazine Article](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry) and
+[Podcast](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/03/12/karthik-sastry-on-animal-spirits).
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 June 2024.
 
