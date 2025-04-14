@@ -21,9 +21,9 @@ May 2024.
 February 2025.
 
 "Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
-[Paper](files/sastry_DAMP_sep2024.pdf),
+[Paper](files/sastry_DAMP_apr2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
-September 2024.
+April 2025.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Revise and resubmit, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
@@ -63,11 +63,10 @@ October 2024.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
 February 2025.
 
-
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _American Economic Review_.
-[Paper](files/Supply_web_apr24.pdf),
+[Paper](files/Supply_web_apr25.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-April 2024.
+April 2025.
 
 ### Publications and Forthcoming Articles
 
