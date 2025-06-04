@@ -6,7 +6,7 @@ I am an Assistant Professor of Economics and Public Affairs at Princeton Univers
 
 I study macroeconomics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
 
-I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University in the 2022-23 academic year. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu.
+I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Economics, History, and Politics](https://histecon.fas.harvard.edu/ehppf/index.html) at Harvard University in the 2022-23 academic year. I am also a Faculty Research Fellow of the National Bureau of Economic Research in the Economic Fluctuations and Growth program and the Environment and Energy Economics program. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry@princeton.edu.
 
 ### Working Papers
 
@@ -21,7 +21,7 @@ May 2024.
 February 2025.
 
 "Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
-[Paper](files/sastry_DAMP_apr2025.pdf),
+[Paper](files/sastry_DAMP_mar2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
 April 2025.
 
@@ -70,8 +70,8 @@ April 2025.
 
 ### Publications and Forthcoming Articles
 
-"Inattentive Economies," with George-Marios Angeletos. Accepted, _Journal of Political Economy_.
-[Paper](files/ie_feb2024.pdf),
+"Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5).
+[Paper](files/AngeletosSastry_Combined.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
 February 2024.
 
