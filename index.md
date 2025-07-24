@@ -15,6 +15,14 @@ I received a PhD in Economics from MIT in 2022 and I was a [Prize Fellow in Econ
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 May 2024.
 
+"Contagious Business Cycles," with Joel P. Flynn.
+[Paper](files/CBC_July_2025.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
+[IMF F&D Magazine Article](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry) and
+[Podcast](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/03/12/karthik-sastry-on-animal-spirits).
+[Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
+July 2025.
+
 "Contractibility Design," with Roberto Corrao and Joel P. Flynn.
 [Paper](files/CDesign.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
@@ -29,7 +37,7 @@ April 2025.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
 [CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
-Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener).
+Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
 March 2025.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
@@ -46,14 +54,6 @@ Coverage:
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 February 2025.
 
-"The Macroeconomics of Narratives," with Joel P. Flynn.
-[Paper](files/Narratives_June2024.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
-[IMF F&D Magazine Article](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry) and
-[Podcast](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/03/12/karthik-sastry-on-animal-spirits).
-[Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
-June 2024.
-
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
 October 2024.
@@ -63,14 +63,14 @@ October 2024.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
 February 2025.
 
-"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _American Economic Review_.
+"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Conditionally accepted, _American Economic Review_.
 [Paper](files/Supply_web_apr25.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
 April 2025.
 
-### Publications and Forthcoming Articles
+### Publications
 
-"Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5).
+"Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5): 2265–2319.
 [Paper](files/AngeletosSastry_Combined.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
 February 2024.
