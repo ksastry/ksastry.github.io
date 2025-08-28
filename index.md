@@ -36,6 +36,7 @@ April 2025.
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Revise and resubmit, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
+[Ideas for India Summary](https://www.ideasforindia.in/topics/environment/food-policy-in-a-warming-world.html).
 [CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
 Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
 March 2025.
@@ -54,6 +55,10 @@ Coverage:
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 February 2025.
 
+"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Heitor S. Pellegrina, and Jacob Moscona. 
+[Paper](files/embrapa_paper.pdf).
+August 2025.
+
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
 October 2024.
@@ -64,9 +69,9 @@ October 2024.
 February 2025.
 
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Conditionally accepted, _American Economic Review_.
-[Paper](files/Supply_web_apr25.pdf),
+[Paper](files/Supply_Fn_AER_Cond_Acc.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-April 2025.
+August 2025.
 
 ### Publications
 
