@@ -55,13 +55,13 @@ Coverage:
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 February 2025.
 
-"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Heitor S. Pellegrina, and Jacob Moscona. 
-[Paper](files/embrapa_paper.pdf).
-August 2025.
-
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
 October 2024.
+
+"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Heitor S. Pellegrina, and Jacob Moscona. 
+[Paper](files/embrapa_paper.pdf).
+August 2025.
 
 "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior," with Peter Andre, Joel P. Flynn, and Georgios Nikolakoudis.
 [Paper](files/quickfix.pdf).
