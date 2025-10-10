@@ -16,17 +16,17 @@ I received an AB in Economics from Princeton in 2016 and a PhD in Economics from
 May 2024.
 
 "Contagious Business Cycles," with Joel P. Flynn.
-[Paper](files/CBC_July_2025.pdf),
+[Paper](files/CBC_Oct_2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 [IMF F&D Magazine Article](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry) and
 [Podcast](https://www.imf.org/en/News/Podcasts/All-Podcasts/2025/03/12/karthik-sastry-on-animal-spirits).
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
-July 2025.
+October 2025.
 
 "Contractibility Design," with Roberto Corrao and Joel P. Flynn.
-[Paper](files/CDesign.pdf).
+[Paper](files/CD_Oct_9_2025.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
-February 2025.
+October 2025.
 
 "Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
 [Paper](files/sastry_DAMP_mar2025.pdf),
@@ -59,7 +59,7 @@ February 2025.
 [Paper](files/PvQ_web.pdf).
 October 2024.
 
-"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Heitor S. Pellegrina, and Jacob Moscona. 
+"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Jacob Moscona, and Heitor S. Pellegrina.
 [Paper](files/embrapa_paper.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5416834).
 Coverage:
