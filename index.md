@@ -60,10 +60,12 @@ February 2025.
 October 2024.
 
 "Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Jacob Moscona, and Heitor S. Pellegrina.
-[Paper](files/embrapa_paper.pdf).
+[Paper](files/embrapa_paper_11052025.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5416834).
+[Vox EU Summary](https://cepr.org/voxeu/columns/public-rd-and-brazils-agricultural-revolution).
 Coverage:
 [Valor Econômico](https://valor.globo.com/opiniao/tiago-cavalcanti/coluna/sucessos-e-insucessos.ghtml).
+[NBER Digest](https://www.nber.org/digest/202511/public-agricultural-rd-and-brazilian-economic-development).
 August 2025.
 
 "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior," with Peter Andre, Joel P. Flynn, and Georgios Nikolakoudis.
