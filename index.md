@@ -28,10 +28,6 @@ October 2025.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 October 2025.
 
-"Disagreement About Monetary Policy." Conditionally accepted, _American Economic Journal: Macroeconomics_.
-[Paper](files/sastry_DAMP_mar2025.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
-April 2025.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Conditionally accepted, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
@@ -63,8 +59,10 @@ October 2024.
 [Paper](files/embrapa_paper_11052025.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5416834).
 [Vox EU Summary](https://cepr.org/voxeu/columns/public-rd-and-brazils-agricultural-revolution).
+[Vox Dev Summary](https://voxdev.org/topic/agriculture/public-rd-and-brazils-agricultural-revolution).
 Coverage:
 [Valor Econômico](https://valor.globo.com/opiniao/tiago-cavalcanti/coluna/sucessos-e-insucessos.ghtml).
+[Globo Rural](https://globorural.globo.com/agricultura/noticia/2025/11/pesquisadores-dos-eua-dizem-que-embrapa-revolucionou-agricultura.ghtml).
 [NBER Digest](https://www.nber.org/digest/202511/public-agricultural-rd-and-brazilian-economic-development).
 August 2025.
 
@@ -73,21 +71,28 @@ August 2025.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
 September 2025.
 
-"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Conditionally accepted, _American Economic Review_.
-[Paper](files/Supply_Fn_AER_Cond_Acc.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-August 2025.
 
 ### Publications
 
+"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Forthcoming, _American Economic Review_.
+[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20240443),
+[Paper](files/Supply_Fn_AER_Cond_Acc.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
+
+"Disagreement About Monetary Policy." Forthcoming, _American Economic Journal: Macroeconomics_.
+[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/mac.20220266),
+[Paper](files/sastry_DAMP_mar2025.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
+
 "Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5): 2265–2319.
+[Publisher's Link](https://www.journals.uchicago.edu/doi/10.1086/734870),
 [Paper](files/AngeletosSastry_Combined.pdf),
 [NBER Link](https://www.nber.org/papers/w26413).
-February 2024.
 
 "Strategic Mistakes," with Joel P. Flynn.  _Journal of Economic Theory_, 2023, (212).
 [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312300100X),
-[Paper](files/SMJune23.pdf), [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
+[Paper](files/SMJune23.pdf), 
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663481).
 
 "Does Directed Innovation Mitigate Climate Damage? Evidence from US Agriculture," with Jacob Moscona. _Quarterly Journal of Economics_, 2023, 138(2): 637-701.
 [Publisher's Link](https://academic.oup.com/qje/article/138/2/637/6760169),
