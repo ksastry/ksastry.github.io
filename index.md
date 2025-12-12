@@ -4,7 +4,7 @@ layout: default
 
 I am an Assistant Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/).
 
-I study macroeconomics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
+I study macroeconomics, with broad interests that also intersect with economic theory, the economics of innovation, and environmental economics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
 
 I received an AB in Economics from Princeton in 2016 and a PhD in Economics from MIT in 2022. I am also a Faculty Research Fellow of the National Bureau of Economic Research in the Economic Fluctuations and Growth program and the Environment and Energy Economics program. My full CV can be found [here](files/kas_cv.pdf). You can contact me at ksastry at princeton dot edu.
 
@@ -23,19 +23,10 @@ May 2024.
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 October 2025.
 
-"Contractibility Design," with Roberto Corrao and Joel P. Flynn.
+"Contractibility Design," with Roberto Corrao and Joel P. Flynn. Revise and resubmit, _Econometrica_.
 [Paper](files/CD_Oct_9_2025.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 October 2025.
-
-
-"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Conditionally accepted, _Econometrica_.
-[Paper](files/HMS_foodpolicy.pdf).
-[Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
-[Ideas for India Summary](https://www.ideasforindia.in/topics/environment/food-policy-in-a-warming-world.html).
-[CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
-Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
-March 2025.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
 [Paper](files/Regional_Exposure_Nov2023.pdf).
@@ -72,7 +63,14 @@ August 2025.
 September 2025.
 
 
-### Publications
+### Publications and Forthcoming Articles
+
+"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Accepted, _Econometrica_.
+[Paper](files/HMS_foodpolicy.pdf).
+[Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
+[Ideas for India Summary](https://www.ideasforindia.in/topics/environment/food-policy-in-a-warming-world.html).
+[CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
+Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
 
 "A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Forthcoming, _American Economic Review_.
 [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20240443),
