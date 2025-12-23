@@ -34,13 +34,13 @@ October 2025.
 November 2023.
 
 "Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
-[Paper](files/IT_Feb2025.pdf),
+[Paper](files/IT_Dec2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 [Vox Dev Summary](https://voxdev.org/topic/technology-innovation/inappropriate-technology-evidence-global-agriculture).
 Coverage:
 [Econimate](https://www.youtube.com/watch?v=2MZqeRcecwQ),
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
-February 2025.
+December 2025.
 
 "Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/PvQ_web.pdf).
