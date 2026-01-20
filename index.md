@@ -15,6 +15,10 @@ I received an AB in Economics from Princeton in 2016 and a PhD in Economics from
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
 May 2024.
 
+"Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier," with Allan Hsiao, Jacob Moscona, and Benjamin Olken.
+[Paper](https://allanhsiao.com/files/HMOS_forest.pdf).
+January 2026.
+
 "Contagious Business Cycles," with Joel P. Flynn.
 [Paper](files/CBC_Oct_2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
@@ -65,7 +69,7 @@ September 2025.
 
 ### Publications and Forthcoming Articles
 
-"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Accepted, _Econometrica_.
+"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Forthcoming, _Econometrica_.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
 [Ideas for India Summary](https://www.ideasforindia.in/topics/environment/food-policy-in-a-warming-world.html).
@@ -84,8 +88,7 @@ Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actu
 
 "Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5): 2265–2319.
 [Publisher's Link](https://www.journals.uchicago.edu/doi/10.1086/734870),
-[Paper](files/AngeletosSastry_Combined.pdf),
-[NBER Link](https://www.nber.org/papers/w26413).
+[Paper](files/AngeletosSastry_Combined.pdf).
 
 "Strategic Mistakes," with Joel P. Flynn.  _Journal of Economic Theory_, 2023, (212).
 [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S002205312300100X),
