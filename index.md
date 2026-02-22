@@ -50,6 +50,11 @@ December 2025.
 [Paper](files/PvQ_web.pdf).
 October 2024.
 
+"Pricing and Production Without the Invisible Hand," with Joel P. Flynn and Georgios Nikolakoudis.
+[Paper](files/Invisible_hand.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6287938).
+February 2026.
+
 "Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Jacob Moscona, and Heitor S. Pellegrina.
 [Paper](files/embrapa_paper_11052025.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5416834).
@@ -76,15 +81,15 @@ September 2025.
 [CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
 Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
 
-"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. Forthcoming, _American Economic Review_.
-[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20240443),
-[Paper](files/Supply_Fn_AER_Cond_Acc.pdf),
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
-
 "Disagreement About Monetary Policy." Forthcoming, _American Economic Journal: Macroeconomics_.
 [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/mac.20220266),
 [Paper](files/sastry_DAMP_mar2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
+
+"A Theory of Supply Function Choice and Aggregate Supply," with Joel P. Flynn and Georgios Nikolakoudis. _American Economic Review_, 2026, 116 (2): 710–48. 
+[Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/aer.20240443),
+[Paper](files/Supply_Fn_AER_Cond_Acc.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490683).
 
 "Inattentive Economies," with George-Marios Angeletos. _Journal of Political Economy_, 2025, 133(5): 2265–2319.
 [Publisher's Link](https://www.journals.uchicago.edu/doi/10.1086/734870),
