@@ -130,3 +130,4 @@ Coverage:
 ### Other Writing
 
 Comment on: “Artificial Intelligence and Cognitive Inequality." _Journal of Monetary Economics_, 2026, 103923. For the Spring 2025 Carnegie-Rochester-NYU Conference on "The Consequences of AI use on Society and Policy."
+[Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0304393226000383).
