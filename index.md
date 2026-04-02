@@ -17,7 +17,7 @@ May 2024.
 
 "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier," with Allan Hsiao, Jacob Moscona, and Benjamin Olken.
 [Paper](https://allanhsiao.com/files/HMOS_forest.pdf).
-January 2026.
+March 2026.
 
 "Contagious Business Cycles," with Joel P. Flynn.
 [Paper](files/CBC_Oct_2025.pdf),
@@ -74,14 +74,14 @@ September 2025.
 
 ### Publications and Forthcoming Articles
 
-"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. Forthcoming, _Econometrica_.
+"Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. _Econometrica_, 2026, 94 (2): 537-572.
 [Paper](files/HMS_foodpolicy.pdf).
 [Vox Dev Summary](https://voxdev.org/topic/energy-environment/food-policy-warming-world).
 [Ideas for India Summary](https://www.ideasforindia.in/topics/environment/food-policy-in-a-warming-world.html).
 [CEPR Podcast](https://cepr.org/multimedia/food-policy-warming-world).
 Coverage: [Diario Financiero (Chile)](https://www.df.cl/economia-y-politica/actualidad/efecto-boomerang-gobiernos-elevan-dano-economico-al-tratar-de-contener), [Econimate](https://youtu.be/dWA3hhAibag).
 
-"Disagreement About Monetary Policy." Forthcoming, _American Economic Journal: Macroeconomics_.
+"Disagreement About Monetary Policy." _American Economic Journal: Macroeconomics_, 2026, 18 (2): 486–522.
 [Publisher's Link](https://www.aeaweb.org/articles?id=10.1257/mac.20220266),
 [Paper](files/sastry_DAMP_mar2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3421723).
@@ -127,3 +127,6 @@ Coverage:
 [Paper](files/bpss_paper.pdf),
 [Online Appendix](files/bpss_app.pdf).
 
+### Other Writing
+
+Comment on: “Artificial Intelligence and Cognitive Inequality." _Journal of Monetary Economics_, 2026, 103923. For the Spring 2025 Carnegie-Rochester-NYU Conference on "The Consequences of AI use on Society and Policy."
