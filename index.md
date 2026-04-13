@@ -46,9 +46,10 @@ Coverage:
 [Project Syndicate](https://www.project-syndicate.org/commentary/when-ideas-and-technologies-cause-more-harm-than-good-by-dani-rodrik-2023-02).
 December 2025.
 
-"Prices vs. Quantities: A Macroeconomic Analysis," with Joel P. Flynn and Georgios Nikolakoudis.
-[Paper](files/PvQ_web.pdf).
-October 2024.
+"Organizational Targets in General Equilibrium," with Joel P. Flynn and Georgios Nikolakoudis.
+[Paper](files/OrgTargets_Apr26_web.pdf),
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570959).
+April 2026.
 
 "Pricing and Production Without the Invisible Hand," with Joel P. Flynn and Georgios Nikolakoudis.
 [Paper](files/Invisible_hand.pdf).
