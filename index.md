@@ -68,9 +68,9 @@ Coverage:
 March 2026.
 
 "Quick-Fixing: Near-Rationality in Consumption and Savings Behavior," with Peter Andre, Joel P. Flynn, and Georgios Nikolakoudis.
-[Paper](files/quickfix.pdf).
+[Paper](files/Quick_Fixing_may26_web.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4999497).
-September 2025.
+May 2026.
 
 
 ### Publications and Forthcoming Articles
