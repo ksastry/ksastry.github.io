@@ -62,7 +62,7 @@ February 2026.
 [Vox EU Summary](https://cepr.org/voxeu/columns/public-rd-and-brazils-agricultural-revolution).
 [Vox Dev Summary](https://voxdev.org/topic/agriculture/public-rd-and-brazils-agricultural-revolution).
 Coverage:
-[Valor Econômico](https://valor.globo.com/opiniao/tiago-cavalcanti/coluna/sucessos-e-insucessos.ghtml).
+Valor Econômico, [1](https://valorinternational.globo.com/agribusiness/news/2026/06/02/mit-professor-hails-embrapa-as-global-model-for-agricultural-research.ghtml) and [2](https://valor.globo.com/opiniao/tiago-cavalcanti/coluna/sucessos-e-insucessos.ghtml).
 [Globo Rural](https://globorural.globo.com/agricultura/noticia/2025/11/pesquisadores-dos-eua-dizem-que-embrapa-revolucionou-agricultura.ghtml).
 [NBER Digest](https://www.nber.org/digest/202511/public-agricultural-rd-and-brazilian-economic-development).
 March 2026.
