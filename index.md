@@ -28,9 +28,9 @@ March 2026.
 October 2025.
 
 "Contractibility Design," with Roberto Corrao and Joel P. Flynn. Revise and resubmit, _Econometrica_.
-[Paper](files/CD_Oct_9_2025.pdf).
+[Paper](files/CD_June_2026.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
-October 2025.
+June 2026.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
 [Paper](files/Regional_Exposure_Nov2023.pdf).
@@ -56,7 +56,7 @@ April 2026.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6287938).
 February 2026.
 
-"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Jacob Moscona, and Heitor S. Pellegrina.
+"Public R&D Meets Economic Development: Embrapa and Brazil’s Agricultural Revolution," with Ariel Akerman, Jacob Moscona, and Heitor S. Pellegrina. Revise and resubmit, _American Economic Review_.
 [Paper](files/embrapa_paper_032026pdf.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5416834).
 [Vox EU Summary](https://cepr.org/voxeu/columns/public-rd-and-brazils-agricultural-revolution).
