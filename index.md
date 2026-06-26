@@ -32,6 +32,10 @@ October 2025.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 June 2026.
 
+"Forecasting With Uncertain Persistence" with Joel P. Flynn and Maksim Meinert.
+[Paper](files/Forecasting.pdf).
+June 2026.
+
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
 [Paper](files/Regional_Exposure_Nov2023.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
