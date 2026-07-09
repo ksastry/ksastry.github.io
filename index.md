@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an Assistant Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/).
+I am an Assistant Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/). I am also currently the holder of the [John Witherspoon Bicentennial Preceptorship](https://dof.princeton.edu/about/endowed-professorships-preceptorships-fellowships/preceptorships).
 
 I study macroeconomics, with broad interests that also intersect with economic theory, the economics of innovation, and environmental economics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
 
@@ -41,7 +41,7 @@ June 2026.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
 November 2023.
 
-"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Revise and resubmit, _American Economic Review_.
+"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Conditionally Accepted, _American Economic Review_.
 [Paper](files/IT_Dec2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 [Vox Dev Summary](https://voxdev.org/topic/technology-innovation/inappropriate-technology-evidence-global-agriculture).
@@ -133,6 +133,8 @@ Coverage:
 [Online Appendix](files/bpss_app.pdf).
 
 ### Other Writing
+
+Co-Editor for Vox Dev literature review on "Technology and Development," 2026. [Link](https://voxdev.org/voxdevlit/technology-and-development).
 
 Comment on: “Artificial Intelligence and Cognitive Inequality." _Journal of Monetary Economics_, 2026, 103923. For the Spring 2025 Carnegie-Rochester-NYU Conference on "The Consequences of AI use on Society and Policy."
 [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0304393226000383).
