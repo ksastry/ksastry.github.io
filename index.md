@@ -19,7 +19,7 @@ May 2024.
 [Paper](https://allanhsiao.com/files/HMOS_forest.pdf).
 March 2026.
 
-"Contagious Business Cycles," with Joel P. Flynn.
+"Contagious Business Cycles," with Joel P. Flynn. Revise and resubmit, _Journal of Political Economy_.
 [Paper](files/CBC_Oct_2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140751).
 [IMF F&D Magazine Article](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry) and
@@ -27,7 +27,7 @@ March 2026.
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 October 2025.
 
-"Contractibility Design," with Roberto Corrao and Joel P. Flynn. Conditionally Accepted, _Econometrica_.
+"Contractibility Design," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _Econometrica_.
 [Paper](files/CD_June_2026.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 June 2026.
@@ -41,7 +41,7 @@ June 2026.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433676).
 November 2023.
 
-"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Conditionally Accepted, _American Economic Review_.
+"Inappropriate Technology: Evidence from Global Agriculture," with Jacob Moscona. Conditionally accepted, _American Economic Review_.
 [Paper](files/IT_Dec2025.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3886019).
 [Vox Dev Summary](https://voxdev.org/topic/technology-innovation/inappropriate-technology-evidence-global-agriculture).
@@ -55,7 +55,7 @@ December 2025.
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570959).
 April 2026.
 
-"Pricing and Production Without the Invisible Hand," with Joel P. Flynn and Georgios Nikolakoudis.
+"Pricing and Production Without the Invisible Hand," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _Quarterly Journal of Economics_.
 [BFI Research Brief](https://bfi.uchicago.edu/insights/pricing-and-production-without-the-invisible-hand/).
 [Paper](files/Invisible_hand.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6287938).
