@@ -28,7 +28,7 @@ March 2026.
 October 2025.
 
 "Contractibility Design," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _Econometrica_.
-[Paper](files/CD_June_2026.pdf).
+[Paper](files/CD_Final.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
 June 2026.
 
