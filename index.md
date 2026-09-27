@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an Assistant Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/). I am also currently the holder of the [John Witherspoon Bicentennial Preceptorship](https://dof.princeton.edu/about/endowed-professorships-preceptorships-fellowships/preceptorships).
+I am an Associate Professor of Economics and Public Affairs at Princeton University, in the [Department of Economics](https://economics.princeton.edu/) and the [School for Public and International Affairs](https://spia.princeton.edu/). I am also currently the holder of the [John Witherspoon Bicentennial Preceptorship](https://dof.princeton.edu/about/endowed-professorships-preceptorships-fellowships/preceptorships).
 
 I study macroeconomics, with broad interests that also intersect with economic theory, the economics of innovation, and environmental economics. Two specific themes in my work are understanding the role of bounded rationality and social dynamics in business-cycle fluctuations and modeling how societies adapt to climate change through policy changes and technological innovation.
 
@@ -17,7 +17,7 @@ May 2024.
 
 "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier," with Allan Hsiao, Jacob Moscona, and Benjamin Olken.
 [Paper](https://allanhsiao.com/files/HMOS_forest.pdf).
-March 2026.
+August 2026.
 
 "Contagious Business Cycles," with Joel P. Flynn. Revise and resubmit, _Journal of Political Economy_.
 [Paper](files/CBC_Oct_2025.pdf),
@@ -27,13 +27,9 @@ March 2026.
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 October 2025.
 
-"Contractibility Design," with Roberto Corrao and Joel P. Flynn. Conditionally accepted, _Econometrica_.
-[Paper](files/CD_Final.pdf).
-[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
-June 2026.
-
 "Forecasting With Uncertain Persistence" with Joel P. Flynn and Maksim Meinert.
 [Paper](files/Forecasting.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7003319).
 June 2026.
 
 "How Much Should We Trust Regional-Exposure Designs?" with Jeremy Majerovitz.
@@ -56,8 +52,8 @@ December 2025.
 April 2026.
 
 "Pricing and Production Without the Invisible Hand," with Joel P. Flynn and Georgios Nikolakoudis. Revise and resubmit, _Quarterly Journal of Economics_.
-[BFI Research Brief](https://bfi.uchicago.edu/insights/pricing-and-production-without-the-invisible-hand/).
 [Paper](files/Invisible_hand.pdf).
+[BFI Research Brief](https://bfi.uchicago.edu/insights/pricing-and-production-without-the-invisible-hand/).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6287938).
 February 2026.
 
@@ -79,6 +75,12 @@ May 2026.
 
 
 ### Publications and Forthcoming Articles
+
+
+"Contractibility Design," with Roberto Corrao and Joel P. Flynn. Forthcoming, _Econometrica_.
+[Paper](files/CD_Final.pdf).
+[SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4621318).
+June 2026.
 
 "Food Policy in a Warming World" with Allan Hsiao and Jacob Moscona. _Econometrica_, 2026, 94 (2): 537-572.
 [Paper](files/HMS_foodpolicy.pdf).
@@ -135,7 +137,11 @@ Coverage:
 
 ### Other Writing
 
+Co-Editor for Vox Dev literature review on "Agricultural Policies for Growth," 2026. [Link](https://voxdev.org/voxdevlit/agricultural-policies-growth).
+
 Co-Editor for Vox Dev literature review on "Technology and Development," 2026. [Link](https://voxdev.org/voxdevlit/technology-and-development).
 
 Comment on: “Artificial Intelligence and Cognitive Inequality." _Journal of Monetary Economics_, 2026, 103923. For the Spring 2025 Carnegie-Rochester-NYU Conference on "The Consequences of AI use on Society and Policy."
 [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0304393226000383).
+
+Article co-written with Joel Flynn on "How Animal Spirits Affect the Economy" for IMF F&D Magazine, March 2025. [Link](https://www.imf.org/en/Publications/fandd/issues/2025/03/how-animal-spirits-affect-the-economy-karthik-sastry).
