@@ -13,7 +13,7 @@ I received an AB in Economics from Princeton in 2016 and a PhD in Economics from
 "Attention Cycles," with Joel P. Flynn. Revise and resubmit, _American Economic Journal: Macroeconomics_.
 [Paper](files/AC.pdf),
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592107).
-May 2024.
+October 2026.
 
 "Climate Change, Deforestation, and the Expansion of the Global Agricultural Frontier," with Allan Hsiao, Jacob Moscona, and Benjamin Olken.
 [Paper](https://allanhsiao.com/files/HMOS_forest.pdf).
@@ -27,7 +27,7 @@ August 2026.
 [Vox EU Summary](https://cepr.org/voxeu/columns/macroeconomics-narratives).
 October 2025.
 
-"Forecasting With Uncertain Persistence" with Joel P. Flynn and Maksim Meinert.
+"Forecasting With Uncertain Persistence" with Joel P. Flynn and Maksim Meinert. Revise and resubmit, _Journal of Political Economy_.
 [Paper](files/Forecasting.pdf).
 [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7003319).
 June 2026.
